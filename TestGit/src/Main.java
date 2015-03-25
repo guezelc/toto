@@ -8,6 +8,7 @@ public class Main {
 		System.out.println(Pile1.getTaille())	;
 		Pile1.empiler(3);
 		System.out.println(Pile1.voirSommet())	;
+		Pile1.empiler(4);
 		System.out.println(Pile1.getTaille())	;
 	}
 
